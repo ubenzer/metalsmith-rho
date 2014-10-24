@@ -1,5 +1,5 @@
 {
-  "name": "metalsmith-rho",
+  "name": "metalsmith-support-rho",
   "version": "0.0.1",
   "description": "Rho support to Metalsmith: Converts rho files to html.",
   "author": "Umut Benzer <umut@benzer.me>",
