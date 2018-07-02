@@ -19,7 +19,7 @@
   "dependencies": {
     "async": "1.2.1",
     "debug": "2.2.0",
-    "lodash": "^3.9.3",
+    "lodash": "^4.17.5",
     "minimatch": "2.0.8",
     "rho": "0.2.3"
   }
